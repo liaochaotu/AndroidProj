@@ -1,0 +1,5 @@
+<root>
+  <item name='androidx.annotation.RecentlyNullable'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+</root>
